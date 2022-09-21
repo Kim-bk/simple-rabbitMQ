@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RabbitMQ.Producer
+build_property.ProjectDir = C:\Users\ASUS\source\repos\RabbitMQ.Producer\RabbitMQ.Producer\
